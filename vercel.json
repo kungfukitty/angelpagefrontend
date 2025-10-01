@@ -16,19 +16,3 @@
     { "src": "/(.*)", "dest": "/$1" }
   ]
 }
-
-  "routes": [
-    {
-      "src": "/assets/(.*)",
-      "dest": "/assets/$1"
-    },
-    {
-      "src": "/press/rss.xml",
-      "dest": "/press/rss.xml"
-    },
-    {
-      "src": "/(.*)",
-      "dest": "/$1"
-    }
-  ]
-}
